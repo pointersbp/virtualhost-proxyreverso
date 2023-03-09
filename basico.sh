@@ -41,7 +41,7 @@ cd ~/
 git clone https://github.com/vacax/javalin-demo/ && cd javalin-demo && bash start.sh &
 curl localhost:7000
 
-git clone https://github.com/pointersbp/javalin-demo/ && cd javalin-demo && bash start.sh &
+git clone https://github.com/pointersbp/demo/ && cd demo && bash start.sh &
 curl localhost:7070
 
 echo "Script completado!..."
